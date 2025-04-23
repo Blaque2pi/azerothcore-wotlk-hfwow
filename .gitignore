@@ -21,8 +21,8 @@
 /apps/joiner
 /deps/deno
 /data/sql/custom/*
-/src/server/scripts/Custom/*
-!/src/server/scripts/Custom/README.md
+# /src/server/scripts/Custom/*
+# !/src/server/scripts/Custom/README.md
 
 /*.override.yml
 /*.override.yaml
